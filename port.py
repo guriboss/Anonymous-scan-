@@ -1,4 +1,5 @@
 #!/usr/bin/python/(created by guruji)
+#anonymous guru
 import socket
 import subprocess
 import sys
